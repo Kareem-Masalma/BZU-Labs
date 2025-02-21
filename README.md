@@ -55,10 +55,27 @@ Each user has their own permissions:
 #### View users ratings and feedback:
 ![Image](https://github.com/user-attachments/assets/72c902fb-cdaf-48f1-8808-4b20f93e0467)
 
+### Lab Worker Page:
+#### Main Page:
+![Image](https://github.com/user-attachments/assets/08a6f25f-ccd9-4281-9e4b-3f224d235949)
+#### Edit personal Details:
+![Image](https://github.com/user-attachments/assets/64042f14-22da-4f0d-a73b-2f7860432641)
+#### Add new test:
+![Image](https://github.com/user-attachments/assets/00676d86-187a-4669-b034-edf93dd0472e)
+![Image](https://github.com/user-attachments/assets/935534ec-8d47-4ae9-b9e9-4f4ffbb1d3de)
+#### View patient records:
+![Image](https://github.com/user-attachments/assets/9f200f69-f45e-4a1e-96c1-371de8ad7d1f)
+![Image](https://github.com/user-attachments/assets/580baa3c-7faf-487a-a866-52d389a2b4dd)
+#### View all patients:
+![Image](https://github.com/user-attachments/assets/1d9468bc-21cb-4ec7-a8f9-938913e3425d)
+#### View appointments:
+![Image](https://github.com/user-attachments/assets/c6f4c6ee-8a88-4970-bf38-2073e345eb24)
 
-
-
-
+### Patient Page:
+#### Main Page:
+![Image](https://github.com/user-attachments/assets/515c07af-fdfe-4755-abff-8ac07157ccdd)
+#### Rating and feedback:
+![Image](https://github.com/user-attachments/assets/cd75347d-da7f-46a3-b7fc-7f73779a6758)
 
 
 
